@@ -1,0 +1,4 @@
+Branch-A pointer to a specific commit in the timeline
+
+Index/stage-where you put the files that you want to commit
+
